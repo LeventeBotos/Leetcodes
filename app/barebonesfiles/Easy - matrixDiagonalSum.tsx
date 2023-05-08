@@ -29,9 +29,9 @@ function diagonalSum(mat: number[][]): number {
 };
 
 
-// export const App() {
-//   return <div>ho</div>
-// }
+export const App = () => {
+  return <div>Dont use this path</div>
+}
 
 
 // diagonalSum([
