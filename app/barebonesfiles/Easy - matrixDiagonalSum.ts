@@ -28,18 +28,24 @@ function diagonalSum(mat: number[][]): number {
     return(res)
 };
 
-diagonalSum([
-    [1,2,3],
-    [4,5,6],
-    [7,8,9]])
 
-diagonalSum([
-    [1,1,1,1],
-    [1,1,1,1],
-    [1,1,1,1],
-    [1,1,1,1]])
+// export const App() {
+//   return <div>ho</div>
+// }
 
-diagonalSum([[5]])
+
+// diagonalSum([
+//     [1,2,3],
+//     [4,5,6],
+//     [7,8,9]])
+
+// diagonalSum([
+//     [1,1,1,1],
+//     [1,1,1,1],
+//     [1,1,1,1],
+//     [1,1,1,1]])
+
+// diagonalSum([[5]])
 
 // function diagonalSum(mat: number[][]): number {
 //     let list:number[] = []
