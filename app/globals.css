@@ -2,6 +2,15 @@
 @tailwind components;
 @tailwind utilities;
 
+.tag {
+  border-radius: 25px;
+  background-color: black;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding: 0.5rem;
+  width: 33%;
+}
+
 :root {
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
@@ -26,9 +35,9 @@ body {
     rgb(var(--background-start-rgb));
 }
 
-/* * {
+* {
   border: 1px red solid;
-} */
+}
 
 
 .ninetyheight {
