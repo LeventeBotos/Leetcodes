@@ -15,13 +15,15 @@ export default function Home() {
           Every problem has its own history.
         </div>
         <div className='flex text-md justify-center text-sm text-white'>
-          <div className='bg-slate-400 m-3  p-1 px-5 rounded-full flex flex-row items-center text-center'>
-          <div className='text-3xl'>o</div>
+          <button className='m-3 rounded-full flex flex-row items-center text-center'>
+            <span className='rounded-full'>github</span>
+          </button>
+          {/* <div className='bg-slate-400 m-3  p-1 px-5 rounded-full flex flex-row items-center text-center'>
+            <div className='text-3xl'>o</div>
             <div className='pl-3'>github</div>
-          </div>
-          <button  className='bg-slate-400 m-3 p-1 px-5 rounded-full flex flex-row items-center text-center'>
-          <div className='text-3xl'>o</div>
-            <div className='pl-3'>leetcode</div>
+          </div> */}
+          <button className='m-3 rounded-full flex flex-row items-center text-center'>
+            <span className='rounded-full'>leetcode</span>
           </button>
         </div>
       </div>

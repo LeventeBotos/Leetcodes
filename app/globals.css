@@ -35,9 +35,9 @@ body {
     rgb(var(--background-start-rgb));
 }
 
-* {
+/* * {
   border: 1px red solid;
-}
+} */
 
 
 .ninetyheight {
@@ -49,10 +49,17 @@ body {
     hsl(150 100% 60%), 
     hsl(200 100% 60%) 
   ) fixed; */
-  background: conic-gradient(
+  /* background: conic-gradient(
     hsl(180 100% 60%), 
     hsl(200 100% 60%),
     hsl(180 100% 60%)
+  ) fixed; */
+  background: radial-gradient(
+    #AF40FF, 
+    #5B42F3,
+    #00DDEB,
+    #5B42F3,
+    #AF40FF
   ) fixed;
   /* background: 
     radial-gradient(
@@ -65,4 +72,65 @@ body {
 
 body {
   scroll-behavior: smooth;
+}
+
+button {
+ align-items: center;
+ background-image: linear-gradient(144deg,#AF40FF, #5B42F3 50%,#00DDEB);
+ border: 0;
+ border-radius: 8px;
+ box-shadow: rgba(151, 65, 252, 0.2) 0 15px 30px -5px;
+ box-sizing: border-box;
+ color: #FFFFFF;
+ display: flex;
+ /* font-family: Phantomsans, sans-serif; */
+ font-size: 18px;
+ justify-content: center;
+ line-height: 1em;
+ max-width: 100%;
+ min-width: 140px;
+ padding: 3px;
+ text-decoration: none;
+ user-select: none;
+ -webkit-user-select: none;
+ touch-action: manipulation;
+ white-space: nowrap;
+ cursor: pointer;
+ transition: all .3s;
+}
+
+button:active,
+button:hover {
+ outline: 0;
+}
+
+button span {
+ background-color: rgb(5, 6, 45);
+ padding: 16px 24px;
+ border-radius: 6px;
+ width: 100%;
+ height: 100%;
+ transition: 300ms;
+}
+
+button:hover span {
+ background: none;
+}
+
+button:active {
+ transform: scale(0.9);
+}
+
+.card {
+  width: 66vw;
+  /* height: 254px; */
+  border-radius: 30px;
+  /* background: #e0e0e0;
+  box-shadow: 15px 15px 30px #bebebe,
+             -15px -15px 30px #ffffff; */
+  background: #1f1f1f;
+  /* box-shadow: 15px 15px 30px #414141,
+             -15px -15px 30px #0000; */
+  box-shadow: 10px 10px 40px #00DDEB,
+              -10px -10px 40px #AF40FF;
 }
