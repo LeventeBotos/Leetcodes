@@ -2,14 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-.tag {
-  border-radius: 25px;
-  background-color: black;
-  padding-left: 1rem;
-  padding-right: 1rem;
-  padding: 0.5rem;
-  width: 33%;
-}
 
 :root {
   --foreground-rgb: 0, 0, 0;
@@ -35,9 +27,9 @@ body {
     rgb(var(--background-start-rgb));
 }
 
-/* * {
+* {
   border: 1px red solid;
-} */
+}
 
 
 .ninetyheight {
@@ -105,7 +97,8 @@ button:hover {
 }
 
 button span {
- background-color: rgb(5, 6, 45);
+ /* background-color: #1f1f1f; */
+ background-color: #1d1d1d;
  padding: 16px 24px;
  border-radius: 6px;
  width: 100%;
@@ -128,9 +121,23 @@ button:active {
   /* background: #e0e0e0;
   box-shadow: 15px 15px 30px #bebebe,
              -15px -15px 30px #ffffff; */
-  background: #1f1f1f;
+  /* background: #1f1f1f; */
+  background: #1d1d1d;
   /* box-shadow: 15px 15px 30px #414141,
              -15px -15px 30px #0000; */
-  box-shadow: 10px 10px 40px #00DDEB,
-              -10px -10px 40px #AF40FF;
+  box-shadow: 5px 5px 30px #00DDEB,
+              -5px -5px 30px #AF40FF;
 }
+
+.easy {
+  color: rgb(0, 175, 155);
+}
+
+.medium {
+  color: rgb(179, 216, 12);
+}
+
+.hard {
+  color: rgb(255 45 85)
+}
+
