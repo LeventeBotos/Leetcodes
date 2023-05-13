@@ -17,12 +17,12 @@ export default function Cards() {
                     </div>
                 </div>
                 <div className='md:mt-10 mt-3 flex text-md justify-center text-sm text-white'>
-                    <a target='_blank' href='https://www.leventebotos.github.io'>
+                    <a target='_blank' href='https://github.com/LeventeBotos/leetcode/blob/master/app/barebones/matrix-diagonal-sum.ts'>
                         <button className='m-3 rounded-full flex flex-row items-center text-center'>
                         <span className='rounded-full'>github</span>
                         </button>
                     </a>
-                    <a href='https://leetcode.com/user1074I/' target='_blank'>
+                    <a href='https://leetcode.com/submissions/detail/949043211/' target='_blank'>
                         <button className='m-3 rounded-full flex flex-row items-center text-center'>
                         <span className='rounded-full'>leetcode</span>
                         </button>
@@ -44,12 +44,12 @@ export default function Cards() {
                     </div>
                 </div>
                 <div className='md:mt-10 mt-3 flex text-md justify-center text-sm text-white'>
-                    <a target='_blank' href='https://www.leventebotos.github.io'>
+                    <a target='_blank' href='https://github.com/LeventeBotos/leetcode/blob/master/app/barebones/two-sum.ts'>
                         <button className='m-3 rounded-full flex flex-row items-center text-center'>
                         <span className='rounded-full'>github</span>
                         </button>
                     </a>
-                    <a href='https://leetcode.com/user1074I/' target='_blank'>
+                    <a href='https://leetcode.com/submissions/detail/949046637/' target='_blank'>
                         <button className='m-3 rounded-full flex flex-row items-center text-center'>
                         <span className='rounded-full'>leetcode</span>
                         </button>
