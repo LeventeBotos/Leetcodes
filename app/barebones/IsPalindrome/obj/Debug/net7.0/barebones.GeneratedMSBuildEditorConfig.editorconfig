@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = barebones
-build_property.ProjectDir = /Users/leventebotos/leetcode/app/barebones/
+build_property.ProjectDir = /Users/leventebotos/leetcode/app/barebones/IsPalindrome/

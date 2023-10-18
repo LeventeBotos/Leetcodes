@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/leventebotos/leetcode/app/barebones/barebones.csproj": {}
+    "/Users/leventebotos/leetcode/app/barebones/IsPalindrome/barebones.csproj": {}
   },
   "projects": {
-    "/Users/leventebotos/leetcode/app/barebones/barebones.csproj": {
+    "/Users/leventebotos/leetcode/app/barebones/IsPalindrome/barebones.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/leventebotos/leetcode/app/barebones/barebones.csproj",
+        "projectUniqueName": "/Users/leventebotos/leetcode/app/barebones/IsPalindrome/barebones.csproj",
         "projectName": "barebones",
-        "projectPath": "/Users/leventebotos/leetcode/app/barebones/barebones.csproj",
+        "projectPath": "/Users/leventebotos/leetcode/app/barebones/IsPalindrome/barebones.csproj",
         "packagesPath": "/Users/leventebotos/.nuget/packages/",
-        "outputPath": "/Users/leventebotos/leetcode/app/barebones/obj/",
+        "outputPath": "/Users/leventebotos/leetcode/app/barebones/IsPalindrome/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/leventebotos/.nuget/NuGet/NuGet.Config"
