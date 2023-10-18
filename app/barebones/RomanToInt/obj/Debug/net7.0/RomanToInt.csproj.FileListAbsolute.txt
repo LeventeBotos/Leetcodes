@@ -1,0 +1,14 @@
+/Users/leventebotos/leetcode/app/barebones/RomanToInt/obj/Debug/net7.0/RomanToInt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leventebotos/leetcode/app/barebones/RomanToInt/obj/Debug/net7.0/RomanToInt.AssemblyInfoInputs.cache
+/Users/leventebotos/leetcode/app/barebones/RomanToInt/obj/Debug/net7.0/RomanToInt.AssemblyInfo.cs
+/Users/leventebotos/leetcode/app/barebones/RomanToInt/obj/Debug/net7.0/RomanToInt.csproj.CoreCompileInputs.cache
+/Users/leventebotos/leetcode/app/barebones/RomanToInt/bin/Debug/net7.0/RomanToInt
+/Users/leventebotos/leetcode/app/barebones/RomanToInt/bin/Debug/net7.0/RomanToInt.deps.json
+/Users/leventebotos/leetcode/app/barebones/RomanToInt/bin/Debug/net7.0/RomanToInt.runtimeconfig.json
+/Users/leventebotos/leetcode/app/barebones/RomanToInt/bin/Debug/net7.0/RomanToInt.dll
+/Users/leventebotos/leetcode/app/barebones/RomanToInt/bin/Debug/net7.0/RomanToInt.pdb
+/Users/leventebotos/leetcode/app/barebones/RomanToInt/obj/Debug/net7.0/RomanToInt.dll
+/Users/leventebotos/leetcode/app/barebones/RomanToInt/obj/Debug/net7.0/refint/RomanToInt.dll
+/Users/leventebotos/leetcode/app/barebones/RomanToInt/obj/Debug/net7.0/RomanToInt.pdb
+/Users/leventebotos/leetcode/app/barebones/RomanToInt/obj/Debug/net7.0/RomanToInt.genruntimeconfig.cache
+/Users/leventebotos/leetcode/app/barebones/RomanToInt/obj/Debug/net7.0/ref/RomanToInt.dll
