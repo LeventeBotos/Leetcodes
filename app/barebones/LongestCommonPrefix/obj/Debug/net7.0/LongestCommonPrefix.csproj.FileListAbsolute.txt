@@ -1,0 +1,14 @@
+/Users/leventebotos/leetcode/app/barebones/LongestCommonPrefix/obj/Debug/net7.0/LongestCommonPrefix.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leventebotos/leetcode/app/barebones/LongestCommonPrefix/obj/Debug/net7.0/LongestCommonPrefix.AssemblyInfoInputs.cache
+/Users/leventebotos/leetcode/app/barebones/LongestCommonPrefix/obj/Debug/net7.0/LongestCommonPrefix.AssemblyInfo.cs
+/Users/leventebotos/leetcode/app/barebones/LongestCommonPrefix/obj/Debug/net7.0/LongestCommonPrefix.csproj.CoreCompileInputs.cache
+/Users/leventebotos/leetcode/app/barebones/LongestCommonPrefix/bin/Debug/net7.0/LongestCommonPrefix
+/Users/leventebotos/leetcode/app/barebones/LongestCommonPrefix/bin/Debug/net7.0/LongestCommonPrefix.deps.json
+/Users/leventebotos/leetcode/app/barebones/LongestCommonPrefix/bin/Debug/net7.0/LongestCommonPrefix.runtimeconfig.json
+/Users/leventebotos/leetcode/app/barebones/LongestCommonPrefix/bin/Debug/net7.0/LongestCommonPrefix.dll
+/Users/leventebotos/leetcode/app/barebones/LongestCommonPrefix/bin/Debug/net7.0/LongestCommonPrefix.pdb
+/Users/leventebotos/leetcode/app/barebones/LongestCommonPrefix/obj/Debug/net7.0/LongestCommonPrefix.dll
+/Users/leventebotos/leetcode/app/barebones/LongestCommonPrefix/obj/Debug/net7.0/refint/LongestCommonPrefix.dll
+/Users/leventebotos/leetcode/app/barebones/LongestCommonPrefix/obj/Debug/net7.0/LongestCommonPrefix.pdb
+/Users/leventebotos/leetcode/app/barebones/LongestCommonPrefix/obj/Debug/net7.0/LongestCommonPrefix.genruntimeconfig.cache
+/Users/leventebotos/leetcode/app/barebones/LongestCommonPrefix/obj/Debug/net7.0/ref/LongestCommonPrefix.dll

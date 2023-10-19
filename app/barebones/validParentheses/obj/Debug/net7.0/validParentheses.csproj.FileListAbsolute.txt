@@ -1,0 +1,14 @@
+/Users/leventebotos/leetcode/app/barebones/validParentheses/bin/Debug/net7.0/validParentheses
+/Users/leventebotos/leetcode/app/barebones/validParentheses/bin/Debug/net7.0/validParentheses.deps.json
+/Users/leventebotos/leetcode/app/barebones/validParentheses/bin/Debug/net7.0/validParentheses.runtimeconfig.json
+/Users/leventebotos/leetcode/app/barebones/validParentheses/bin/Debug/net7.0/validParentheses.dll
+/Users/leventebotos/leetcode/app/barebones/validParentheses/bin/Debug/net7.0/validParentheses.pdb
+/Users/leventebotos/leetcode/app/barebones/validParentheses/obj/Debug/net7.0/validParentheses.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leventebotos/leetcode/app/barebones/validParentheses/obj/Debug/net7.0/validParentheses.AssemblyInfoInputs.cache
+/Users/leventebotos/leetcode/app/barebones/validParentheses/obj/Debug/net7.0/validParentheses.AssemblyInfo.cs
+/Users/leventebotos/leetcode/app/barebones/validParentheses/obj/Debug/net7.0/validParentheses.csproj.CoreCompileInputs.cache
+/Users/leventebotos/leetcode/app/barebones/validParentheses/obj/Debug/net7.0/validParentheses.dll
+/Users/leventebotos/leetcode/app/barebones/validParentheses/obj/Debug/net7.0/refint/validParentheses.dll
+/Users/leventebotos/leetcode/app/barebones/validParentheses/obj/Debug/net7.0/validParentheses.pdb
+/Users/leventebotos/leetcode/app/barebones/validParentheses/obj/Debug/net7.0/validParentheses.genruntimeconfig.cache
+/Users/leventebotos/leetcode/app/barebones/validParentheses/obj/Debug/net7.0/ref/validParentheses.dll
